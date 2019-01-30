@@ -240,7 +240,6 @@ GEM
 
 PLATFORMS
   ruby
-  unknown
 
 DEPENDENCIES
   github-pages
