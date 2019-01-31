@@ -317,3 +317,5 @@ a:hover { text-decoration: underline; }
 .site-footer-owner { display: block; font-weight: bold; }
 
 .site-footer-credits { color: #819198; }
+
+body { padding: 0; margin: 0; font-family: "Georgia", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 30px; line-height: 1.5; color: #606c71; }
