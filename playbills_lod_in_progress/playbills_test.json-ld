@@ -1,0 +1,435 @@
+{
+    "@context": {
+      "playbill": "https://schema.org/CreativeWork",
+      "event": "https://schema.org/Superevent",
+      "date_standard": "https://schema.org/Date",
+      "venue_identified_name": "https://schema.org/EventVenue",
+      "performance": "https://schema.org/TheaterEvent",
+      "title": "https://schema.org/CreativeWork",
+      "coming_attraction": "https://schema.org/TheaterEvent",
+      "headliner": "https://schema.org/performer"
+    },
+
+    "playbills_dataset": [
+    { 
+      "metadata": {
+        "@id": "http://hdl.library.upenn.edu/1017/d/print/9970855963503681",
+        "call_number": "box 18 no. 115; box 18 no. 1",
+        "metadata_creator": "David Kalish",
+        "date_created": "2019-01-22T00:00:00+00:00"
+      },
+      "playbill": {
+        "event": {
+          "date": {
+            "date_as_written": "January 30, 1866",
+            "date_standard": "1/30/1866"
+          },
+          "venue": [
+            {
+              "@id": "http://viaf.org/viaf/152417906",
+              "venue_name": "New Chestnut St. Theatre",
+              "venue_identified_name": "New Chestnut St. Theatre",
+              "venue_location": "Phailadelphia PA"
+            }
+          ],
+          "manager": [
+            "Leonard Grover",
+            "William E. Sinn",
+            "Jos. C. Foster"
+          ],
+          "ticketing": [
+            {
+              "price_as_written": "30 Cents",
+              "price": "0.3",
+              "ticket_location": "Matinees"
+            },
+            {
+              "price_as_written": "25 Cents",
+              "price": "0.25",
+              "ticket_location": "Children"
+            }
+          ],
+          "performance": [
+            {
+              "title": "Arrah-Na-Pogue or The Wicklow Wedding",
+              "performance_other": "Synopsis of Scenery: Act 1- Glendalough by Moonlight. Arrah's Cabin. The Armory. The Barn. Act II- The Devil's Glen. A Room in Ballybetagh. The Prison. Ballybetagh Castle. The Justice Hall. Act III- The Secretary's Room. Ballybetagh Castle- Night. The Prison. The Keep. The Ivy Wall. The Watch Tower.",
+              "contributor": [
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "Mr. T H Glenney",
+                  "character": "Shaun, The Post",
+                  "headliner": "x"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "Miss Josie Orton",
+                  "character": "Arrah Meelish",
+                  "headliner": "x"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "Mr. G H Clarke",
+                  "character": "Beamish McCoul-the McCoul"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "Mr. Walter Lennox",
+                  "character": "Mr. Michael Feeny"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "F Mordaunt",
+                  "character": "Col. Bagnal O'Grady-the O'Grady"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "Mr. B Young",
+                  "character": "The Secretary"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "Mr. J T Ward",
+                  "character": "Winterbottom, his valet"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "Mr. Lewis",
+                  "character": "Major Coffin"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "Mr. F Foster",
+                  "character": "Oiny Farrell"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "Mr. Fisher",
+                  "character": "Tim Regan"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "Mr. J V Dailey",
+                  "character": "Patsey, with a Barn Door Jig"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "Mr. McSorley",
+                  "character": "Moran"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "Mr. Bradford",
+                  "character": "Lanty"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "Mr. W H Gross",
+                  "character": "Sergeant"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "Mr. Nagle",
+                  "character": "Sentry"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "Mr. W H Moreland",
+                  "character": "Lanagan"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "Miss L Cooper",
+                  "character": "Panny Power, of Cavinteeny"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "Mrs. Mordaunt",
+                  "character": "Katty, with a Barn Door Jig"
+                }
+              ]
+            },
+            {
+              "title": "My Wife's Maid",
+              "contributor": [
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "Mr. Walter Lennox",
+                  "character": "Lysimachus Tootles"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "Mr. W H Gross",
+                  "character": "Mr. Tootles, Senior"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "Mr. J T Ward",
+                  "character": "Capt. Crackthorpe Cruncher"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "Miss Katie Baker",
+                  "character": "Master Sprouts"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "Mrs. Baker",
+                  "character": "Mrs. Whiffleton"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "Miss Porter",
+                  "character": "Lucinda"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "Miss Annie Ward",
+                  "character": "Barbara Perkins"
+                }
+              ]
+            }
+          ]
+        },
+        "coming_attraction": [
+          {
+            "title": "Arrah-Na-Pogue Matinee",
+            "headliner": "Grand Arrah-Na-Pogue Matinee",
+            "date": {
+              "date_as_written": "2019-01-31T00:00:00+00:00",
+              "date_standard": "1/31/1866"
+            }
+          },
+          {
+            "title": "Uncle Tom's Cabin",
+            "headliner": "Eighty-Seventh Grand Family Matinee",
+            "date": {
+              "date_as_written": "2019-02-03T00:00:00+00:00",
+              "date_standard": "2/3/1866"
+            }
+          },
+          {
+            "title": "Black Mail; or, The Hour of Ten and Henry Dunbar!",
+            "headliner": "Black Mail; or, The Hour of Ten and Henry Dunbar!",
+            "date": {
+              "date_as_written": "In active Preparation, and to be shortly produced"
+            }
+          }
+        ],
+        "additional_text": {
+          "advertisement": [
+            "Upham's Hair Gloss and Curling Fluid",
+            "Proctor's Fine Furs",
+            "Proctor's Cloaks"
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "@id": "http://hdl.library.upenn.edu/1017/d/print/9970855963503681",
+        "call_number": "box 18 no. 1",
+        "metadata_creator": "David Kalish",
+        "date_created": "2019-01-23T00:00:00+00:00"
+      },
+      "playbill": {
+        "event": {
+          "date": {
+            "date_as_written": "January 30, 1866",
+            "date_standard": "1/30/1866"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "@id": "http://hdl.library.upenn.edu/1017/d/print/9970855963503681",
+        "call_number": "box 18 no. 115",
+        "metadata_creator": "David Kalish",
+        "date_created": "2019-01-23T00:00:00+00:00"
+      },
+      "playbill": {
+        "event": {
+          "date": {
+            "date_as_written": "February 12, 1866",
+            "date_standard": "2/12/1866"
+          },
+          "venue": [
+            {
+              "venue_name": "New Chestnut St. Theatre",
+              "venue_identified_name": "New Chestnut St. Theatre",
+              "venue_location": "Philadelphia, PA"
+            }
+          ],
+          "manager": [
+            "Leonard Grover",
+            "William E. Sinn",
+            "Jos. C. Foster"
+          ],
+          "ticketing": [
+            {
+              "ticket_location": "Philadelphia, PA"
+            }
+          ],
+          "performance": [
+            {
+              "title": "Henry Dunbar! Or, The Outcasts",
+              "performance_other": "The Performance this week will commence at the usual time- Quarter before 8 o'clock. Doors open quarter before 7",
+              "contributor": [
+                {
+                  "@id": "http://viaf.org/viaf/9978271",
+                  "contributor_type": "Playwright",
+                  "contributor_name": "Tom Taylor"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "Mr. F Mordaunt",
+                  "character": "Henry Dunbar",
+                  "headliner": "x"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "Miss Josie Orton",
+                  "character": "Margaret Wentworth",
+                  "headliner": "x"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "G H Clarke",
+                  "character": "The Major, with several aliases"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "J T Ward",
+                  "character": "Henry Carter, a Detective"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "A Fisher",
+                  "character": "Jerrams, Head Waiter at \"The George\""
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "C Lewis",
+                  "character": "Arthur Lovell, a Barrister"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "F Foster",
+                  "character": "Clement Austin, Cashier to the firm of Dunbar & Balderly"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "W Moreland",
+                  "character": "Balderly, Junior Partner of Dunbar & Balderly"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "J V Dailey",
+                  "character": "Hartogg, a Jewel Merchant"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "J Bradford",
+                  "character": "Thomas Tibbles, Carter's Mate"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "E Nagle",
+                  "character": "Umfravillo, Miss Dunbar's Footman"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "J McSorley",
+                  "character": "Messenger"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "Miss Annie Ward",
+                  "character": "Mary Lighty"
+                },
+                {
+                  "contributor_type": "Performer",
+                  "contributor_name": "Mrs. E F Keach",
+                  "character": "Laura Dunbar"
+                }
+              ]
+            }
+          ]
+        },
+        "coming_attraction": [
+          {
+            "title": "Uncle Tom's Cabin",
+            "headliner": "Grand Extra Matinee. Uncle Tom's Cabin Will be given for the Last Time this Season.",
+            "date": {
+              "date_as_written": "2019-02-14T00:00:00+00:00",
+              "date_standard": "2/14/1866"
+            }
+          },
+          {
+            "title": "Henry Dunbar",
+            "headliner": "Nineteenth Grand Family Matinee.-- First Day Performance of Henry Dunbar",
+            "date": {
+              "date_as_written": "2019-02-17T00:00:00+00:00",
+              "date_standard": "2/17/1866"
+            }
+          },
+          {
+            "title": "The Ice Witch!",
+            "headliner": "Monday Evening, February 19th, will be presented the Georgeous Scenic Drama, The Ice Witch!",
+            "date": {
+              "date_as_written": "2019-02-19T00:00:00+00:00",
+              "date_standard": "2/19/1866"
+            }
+          }
+        ],
+        "additional_text": {
+          "advertisement": [
+            "Upham's Hair Stain",
+            "Proctor's Fine Furs",
+            "Proctor's Cloaks"
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "@id": "http://hdl.library.upenn.edu/1017/d/print/9970855963503681",
+        "call_number": "box 18 no. 1",
+        "metadata_creator": "David Kalish",
+        "date_created": "2019-01-23T00:00:00+00:00"
+      },
+      "playbill": {
+        "event": {
+          "date": {
+            "date_as_written": "January 30, 1866",
+            "date_standard": "1/30/1866"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "@id": "http://hdl.library.upenn.edu/1017/d/print/9970856093503681",
+        "call_number": "box 18 no. 116",
+        "metadata_creator": "David Kalish",
+        "date_created": "2019-01-23T00:00:00+00:00"
+      },
+      "playbill": {
+        "event": {
+          "date": {
+            "date_as_written": "May 24, 1867",
+            "date_standard": "5/24/1867"
+          },
+          "venue": [
+            {
+              "@id": "http://viaf.org/viaf/152417906",
+              "venue_name": "New Chestnut St. Theatre",
+              "venue_identified_name": "New Chestnut St. Theatre",
+              "venue_location": "Philadelphia, PA"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
